@@ -31,12 +31,12 @@ Welcome to my portfolio! Here you'll find an overview of my work, skills, and pr
 - Debugged and enhanced a real-time TTS WebSocket pipeline by implementing detailed logging to inspect and verify text payloads.  
 - Identified and resolved a critical double-cleaning bug causing failed speech synthesis.
 
-### Backend Pipeline Refactor for AI Text Processing  
+### Backend Pipeline Refactor for AI Text Processing (Private project, source not publicly available)
 **Tech Stack:** Node.js, WebSockets  
 - Refactored a complex backend processing pipeline to improve modularity and maintainability.  
 - Streamlined data flow by decomposing stages and introducing centralized orchestration, enhancing system robustness and debugging efficiency.
 
-### Pipeline Stabilization and Testing Enhancements  
+### Pipeline Stabilization and Testing Enhancements (Private project, source not publicly available)
 **Tech Stack:** Node.js, Jest, WebSockets  
 - Cleaned deprecated pipeline code and removed unused files to reduce technical debt.  
 - Improved code clarity by renaming variables and relocating functions to logical modules.  
