@@ -26,10 +26,11 @@ Welcome to my portfolio! Here you'll find an overview of my work, skills, and pr
 
 ## Projects
 
-### Private Backend TTS Debug Tool (Private project, source not publicly available)  
+### Private Backend TTS Debug Tool (Private project, source not publicly available)
 **Tech Stack:** Node.js, WebSockets  
 - Debugged and enhanced a real-time TTS WebSocket pipeline by implementing detailed logging to inspect and verify text payloads.  
 - Identified and resolved a critical double-cleaning bug causing failed speech synthesis.
+- [See public demo here for debugging the double-cleaning bug.](https://github.com/dangkyle64/tts-debug-tool-demo)
 
 ### Backend Pipeline Refactor for AI Text Processing (Private project, source not publicly available)
 **Tech Stack:** Node.js, WebSockets  
