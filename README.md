@@ -24,21 +24,31 @@ Welcome to my portfolio! Here you'll find an overview of my work, skills, and pr
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 📌 Project Title 1
-**Description:** Short summary of what it does and why it's cool.  
-**Tech Used:** React, Node.js, MongoDB  
-**GitHub:** [Repo Link](https://github.com/yourusername/project1)
+### Private Backend TTS Debug Tool (Private project, source not publicly available)  
+**Tech Stack:** Node.js, WebSockets  
+- Debugged and enhanced a real-time TTS WebSocket pipeline by implementing detailed logging to inspect and verify text payloads.  
+- Identified and resolved a critical double-cleaning bug causing failed speech synthesis.
+
+### Backend Pipeline Refactor for AI Text Processing  
+**Tech Stack:** Node.js, WebSockets  
+- Refactored a complex backend processing pipeline to improve modularity and maintainability.  
+- Streamlined data flow by decomposing stages and introducing centralized orchestration, enhancing system robustness and debugging efficiency.
+
+### Pipeline Stabilization and Testing Enhancements  
+**Tech Stack:** Node.js, Jest, WebSockets  
+- Cleaned deprecated pipeline code and removed unused files to reduce technical debt.  
+- Improved code clarity by renaming variables and relocating functions to logical modules.  
+- Implemented defensive error handling to prevent crashes and silent failures.  
+- Added comprehensive edge-case and regression tests for robustness.
 
 ---
 
-### 📌 Project Title 2
-**Description:** Another summary here.  
-**Tech Used:** Python, Flask, PostgreSQL  
-**GitHub:** [Repo Link](https://github.com/yourusername/project2)
+## Education
 
----
+**Bachelor of Science in Computer Science**  
+California State University, Fullerton — May 2025
 
 ## 🏆 Achievements & Certifications
 
