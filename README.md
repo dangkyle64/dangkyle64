@@ -19,10 +19,15 @@ Welcome to my portfolio! Here you'll find an overview of my work, skills, and pr
 
 - **Languages:** Javascript
 - **Frameworks:** Nodejs
-- **Tools:** Git, Docker, VSCode
+- **Tools:** Git, VSCode
 - **Databases:** PostgreSQL
 
 ---
+## About These Projects
+
+These projects reflect my personal work on backend pipelines using Node.js and WebSockets. Some projects include private code that I’ve chosen not to share publicly, but I’ve created a public demo to showcase a particular debugging challenge I solved in a text-to-speech pipeline.
+
+They demonstrate my skills in debugging, modular design, improving system reliability, and writing tests to ensure long-term stability.
 
 ## Projects
 
@@ -38,12 +43,17 @@ Welcome to my portfolio! Here you'll find an overview of my work, skills, and pr
 - Streamlined data flow by decomposing stages and introducing centralized orchestration, enhancing system robustness and debugging efficiency.
 
 ### Pipeline Stabilization and Testing Enhancements (Private project, source not publicly available)
-**Tech Stack:** Node.js, Jest, WebSockets  
+**Tech Stack:** Node.js, Vitest, WebSockets  
 - Cleaned deprecated pipeline code and removed unused files to reduce technical debt.  
 - Improved code clarity by renaming variables and relocating functions to logical modules.  
 - Implemented defensive error handling to prevent crashes and silent failures.  
 - Added comprehensive edge-case and regression tests for robustness.
 
+### Main Backend Pipeline Implementation and Testing (Private project, source not publicly available)
+**Tech Stack:** Node.js, Vitest, WebSockets
+- Developed and stabilized a newly implemented main backend processing pipeline consisting of multiple untested stages. 
+- Added detailed logging and defensive error handling to individual pipeline steps to improve reliability and facilitate debugging. 
+- Created initial comprehensive tests covering edge cases and regression scenarios to ensure robustness during early development.
 ---
 
 ## Education
